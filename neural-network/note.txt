@@ -8,3 +8,6 @@ There have some Layers in the neural network:
 • Output Layer: This final layer produces the final prediction or classification result.
 
 In a neural network, a node (often called an artificial neuron) is the fundamental computational unit that processes incoming data. It mimics the basic behavior of a biological neuron in the human brain by receiving signals, performing a calculation, and firing an output
+
+
+I AM WATCHIN YOUTUBE VIDEO :https://youtube.com/playlist?list=PLQVvvaa0QuDcjD5BAw2DxE6OF2tius3V3&si=GSQ7zTtKd41-S3NB
