@@ -1,0 +1,10 @@
+What is neural network ?
+-> A neural network is a machine learning model inspired by the human brain that uses connected processing units to recognize patterns in data. It forms the foundation of modern artificial intelligence (AI) and deep learning. Main Layers of a Neural Network.
+
+There have some Layers in the neural network:
+
+• Input Layer: This layer receives raw data from the outside world and passes it forward.
+• Hidden Layers: These middle layers perform the heavy computations, extracting complex features and patterns from the data.
+• Output Layer: This final layer produces the final prediction or classification result.
+
+In a neural network, a node (often called an artificial neuron) is the fundamental computational unit that processes incoming data. It mimics the basic behavior of a biological neuron in the human brain by receiving signals, performing a calculation, and firing an output
